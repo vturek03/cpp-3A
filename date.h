@@ -14,6 +14,6 @@ int day();
 private:
 
 int _month;
-int -day; 
+int _monthday; 
 
 };
